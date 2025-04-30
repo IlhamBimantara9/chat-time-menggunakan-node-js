@@ -1,5 +1,16 @@
 #chat server-client sederhana dengan timestamp menggunakan Node.js. Ini menggunakan net module bawaan Node.js (tanpa library tambahan) dan mendukung komunikasi 1 server - 1 client melalui terminal.
 
+Cara Menjalankan:
+Pastikan Node.js sudah terpasang.
+
+Jalankan server:
+node chat_server.js
+
+Jalankan client di terminal berbeda:
+node chat_client.js
+
+Chatting dimulai! 
+
 #Server
 ![Screenshot 2025-04-30 200611](https://github.com/user-attachments/assets/4c53f26a-e42e-43bf-b2bb-3da65b0e2f65)
 
